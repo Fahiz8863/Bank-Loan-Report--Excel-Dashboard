@@ -4,7 +4,11 @@ Developed an interactive dashboard to analyze bank loan data, showcasing key met
 ## 📊 Project Overview
 This project is an interactive dashboard designed to analyze and visualize bank loan data. It provides insights into loan applications, approval rates, payments, interest rates, and borrower details to support data-driven decision-making.
 
-![Library_project](https://github.com/Fahiz8863/Bank-Loan-Report--Excel-Dashboard/blob/main/Screenshot%202025-06-16%20133647.png).
+## Summary
+![Bank_loan_project](https://github.com/Fahiz8863/Bank-Loan-Report--Excel-Dashboard/blob/main/Screenshot%202025-06-16%20133647.png).
+
+## Overviw
+![Bank_loan_project](https://github.com/Fahiz8863/Bank-Loan-Report--Excel-Dashboard/blob/main/Screenshot%202025-06-16%20133711.png).
 
 ## 🧩 Features
 - Total loan applications, funded amounts, and payments
